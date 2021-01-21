@@ -1,0 +1,8 @@
+[!]COMPILE
+
+nasm -f elf64 -o asm_obj.o asm_code.asm
+gcc -march=x86-64 -o 003_run.exe 003_asm_call.c asm_obj.o
+
+[!]RUN
+
+./003_run.exe
