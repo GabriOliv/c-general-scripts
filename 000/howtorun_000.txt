@@ -1,0 +1,7 @@
+[!]COMPILE
+
+gcc 000_hello_world.c -o 000_run.exe
+
+[!]RUN
+
+./000_run.exe
