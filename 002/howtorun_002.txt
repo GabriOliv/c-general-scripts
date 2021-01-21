@@ -1,0 +1,10 @@
+[!]COMPILE
+
+gcc 002_command_argument.c -o 002_run.exe
+
+[!]RUN
+
+./002_run.exe 10 20
+
+
+

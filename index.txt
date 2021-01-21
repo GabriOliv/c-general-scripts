@@ -1,6 +1,6 @@
 000 - [Hello World] (Display String)
 001 - [System Call] (Call command "ls" with Script C)
-002 - [?] (?)
+002 - [Command Argument]] (Execute with Custom Arguments)
 003 - [?] (?)
 004 - [?] (?)
 005 - [?] (?)
