@@ -1,0 +1,7 @@
+[!]COMPILE
+
+gcc 001_system_call.c -o 001_run.exe
+
+[!]RUN
+
+./001_run.exe

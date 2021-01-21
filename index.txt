@@ -1,5 +1,5 @@
 000 - [Hello World] (Display String)
-001 - [?] (?)
+001 - [System Call] (Call command "ls" with Script C)
 002 - [?] (?)
 003 - [?] (?)
 004 - [?] (?)
