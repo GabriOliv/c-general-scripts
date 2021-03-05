@@ -1,4 +1,6 @@
-# c-general-scripts
+# [C (General Scripts)](https://github.com/GabriOliv/c-general-scripts)
+
+General scripts in C language.
 
 ---
 ## Scripts
